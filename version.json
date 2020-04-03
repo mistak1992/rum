@@ -1,3 +1,6 @@
 {
-"isPay":true
+	msg = 操作成功;
+	data = true;
+	code = 0;
 }
+
